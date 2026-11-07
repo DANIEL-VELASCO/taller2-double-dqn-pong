@@ -1,0 +1,7 @@
+gymnasium>=1.1,<2
+ale-py>=0.11,<1
+tensorflow>=2.16
+numpy
+pandas
+matplotlib
+imageio
