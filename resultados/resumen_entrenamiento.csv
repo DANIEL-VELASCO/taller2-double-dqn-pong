@@ -1,0 +1,6 @@
+corrida,horizonte (pasos),episodios,media últimos 10,mejor media móvil,paso en que media ≥ -15,minutos,nota
+base,600000,246,-3.7,3.3,134780,99.41,
+base,250000,132,-6.4,-6.4,134780,39.06,
+eps_rapido,250000,118,-12.4,-12.3,209850,41.30,
+eps_lento,250000,187,-16.0,-14.5,229280,222.84,últimos 50 000 pasos en CPU; tiempo no comparable
+dueling,250000,137,-5.2,-1.8,113315,45.90,
