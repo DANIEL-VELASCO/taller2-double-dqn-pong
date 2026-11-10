@@ -11,7 +11,7 @@ ENTREGABLES
 -----------
 1. informe/
    Reporte escrito en formato IEEE Transactions on Artificial Intelligence
-   (PDF y fuente LaTeX). Responde las cinco actividades del taller:
+   (PDF y fuente en Word). Responde las cinco actividades del taller:
    ciclo de entrenamiento, exploracion epsilon-greedy, analisis de valores Q
    y error TD, revision de la arquitectura y evaluacion de la politica.
 
